@@ -1,0 +1,3 @@
+PIL #pip install pillow
+pyrogram
+pyfiglet

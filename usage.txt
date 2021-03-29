@@ -1,0 +1,2 @@
+you need to input youre data in config.ini and install librarys from dependencies.txt.
+Enjoy it!!!
